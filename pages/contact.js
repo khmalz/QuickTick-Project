@@ -79,7 +79,7 @@ export default function Contact() {
                   <div className="group flex w-full max-w-sm flex-col items-center gap-y-2 rounded-b-md rounded-t-lg border-t-8 border-slate-200 border-t-teal-500 bg-slate-50 px-16 pt-5 pb-7 shadow-md transition duration-300">
                      <img width={96} src="text.jpg" alt="" />
                      <div>
-                        <h2 className="my-3 text-slate-600">Lets Email US</h2>
+                        <h2 className="my-3 text-slate-600">Lets Chat US</h2>
                      </div>
                      <button id="button-pesan" onClick={munculKotak2} className="pesan-awal rounded-full border border-teal-400 px-20 py-2 text-sm font-semibold  transition duration-300 focus:outline-none">
                         Submit a Text
